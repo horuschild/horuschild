@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm horuschild!
 
-<!--
-**horuschild/horuschild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mechanical Engineering Student | 3D & Programming Enthusiast and Movie Nerd**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a calm and reasonable person passionate about both engineering and code. I love bringing ideas to life—whether that's through mechanical design, 3D modeling, or building web apps.
+
+## 🛠️ Top Skills
+
+- **Web Development:** Javascript, Typescript, Node.js, React
+- **3D Modeling & Prototyping:** Engineering solutions & automation
+
+## 🧑‍🎓 Currently...
+
+- Studying Mechanical Engineering
+- Exploring creative intersections between hardware, software, and 3D design
+- Always eager to learn new tech and collaborate!
+
+## 📫 Connect with Me
+
+- Instagram: [@horuschild](https://instagram.com/horuschild)
+- LinkedIn: [Zahra Indica Fathsyah](www.linkedin.com/in/zahra-indica-fathsyah)
+
+---
+
+*“3D and Programming Enthusiast” — always building, always learning!*
