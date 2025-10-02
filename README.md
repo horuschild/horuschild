@@ -22,7 +22,7 @@ I'm a calm and reasonable person passionate about both engineering and code. I l
 ## 📫 Connect with Me
 
 - Instagram: [@horuschild](https://instagram.com/horuschild)
-- LinkedIn: [Zahra Indica Fathsyah](www.linkedin.com/in/zahra-indica-fathsyah)
+- LinkedIn: [Zahra Indica Fathsyah](https://www.linkedin.com/in/zahra-indica-fathsyah/)
 
 ---
 
