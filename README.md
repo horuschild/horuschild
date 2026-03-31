@@ -26,4 +26,4 @@ I'm a calm and reasonable person passionate about both engineering and code. I l
 
 ---
 
-*“3D and Programming Enthusiast” — always building, always learning!*
+*“3D and Programming Enthusiast”*
